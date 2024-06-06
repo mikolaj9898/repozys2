@@ -78,29 +78,29 @@ function z58() {
 }
 
 function z42_kod() {
-   window.open("z42_kraj_kod.html", "okienko_z42_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z42kod_kraj.html", "okienko_z42_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z43_kod() {
-   window.open("z43_kraj_kod.html", "okienko_z43_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z43kod_kraj.html", "okienko_z43_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z44_kod() {
-   window.open("z44_kraj_kod.html", "okienko_z44_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z44kod_kraj.html", "okienko_z44_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z45_kod() {
-   window.open("z45_kraj_kod.html", "okienko_z45_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z45kod_kraj.html", "okienko_z45_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z46_kod() {
-   window.open("z46_kraj_kod.html", "okienko_z46_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z46kod_kraj.html", "okienko_z46_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z47_kod() {
-   window.open("z47_kraj_kod.html", "okienko_z47_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z47kod_kraj.html", "okienko_z47_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
 
 function z50_kod() {
-   window.open("z50_kraj_kod.html", "okienko_z50_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
+   window.open("z50kod_kraj.html", "okienko_z50_kod","toolbar=no, directories=no, menubar=no, height=720, width=900, top=350, left=600");
 }
