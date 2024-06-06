@@ -49,7 +49,7 @@ function z47() {
    window.open("z47_kraj.html", "okienko_z47w","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 
-function z50w() {
+function z50() {
    window.open("z50_kraj.html", "okienko_z50w","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 
@@ -65,7 +65,7 @@ function z53() {
    window.open("z53_kraj.html", "okienko_z53w","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 
-function z56w() {
+function z56() {
    window.open("z56_kraj.html", "okienko_z56w","toolbar=no, directories=no, menubar=no, height=300, width=900, top=350, left=600");
 }
 
